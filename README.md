@@ -1,11 +1,11 @@
 # Tender Hack, 31.03-02.04.2023.
 
-## Итог: 3-е место.
+## Summary: 3-rd place.
 
-## Цель:
-Разработка персональной статистики организации поставщика.
+## Goal:
+Development of personal statistics of the supplier's organization.
 
-## Stack технологий:
+## Technology stack:
 1. Python (pandas, nltk, razdel, pymorphy2, re).
 2. PostgreSQL.
 3. Microsoft Power BI.
