@@ -3,7 +3,7 @@
 ## Summary: 3-rd place.
 
 ## Goal:
-Development of personal statistics of the supplier's organization.
+Development of personal statistics of the supplier's organisation.
 
 ## Technology stack:
 1. Python (pandas, nltk, razdel, pymorphy2, re).
